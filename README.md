@@ -26,13 +26,13 @@ O objetivo é parar de corrigir os bots várias vezes pela mesma coisa.
 
 **Hermes Agent**
 ```bash
-git clone <url-deste-repo> ~/.hermes/skills/rfc-workspace-ia
+git clone https://github.com/basiliooo/rfc-workspace-ia ~/.hermes/skills/rfc-workspace-ia
 ```
 Depois, numa sessão nova: *“quero criar o RFC do meu workspace de IA”*.
 
 **Claude Code**
 ```bash
-git clone <url-deste-repo> ~/.claude/skills/rfc-workspace-ia
+git clone https://github.com/basiliooo/rfc-workspace-ia ~/.claude/skills/rfc-workspace-ia
 ```
 
 **Outros agentes:** aponte o agente para o `SKILL.md` e peça para ele seguir o procedimento.
