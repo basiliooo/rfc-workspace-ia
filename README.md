@@ -53,8 +53,4 @@ scripts/minerar_correcoes.py     minerador, só com biblioteca padrão do Python
 python3 scripts/minerar_correcoes.py ~/.hermes/state.db ~/.claude/projects --out correcoes.md
 ```
 
-## Origem
-
-Esta skill foi extraída de um caso real. A RFC original saiu de 97 perguntas e virou cerca de 160 regras, que resolveram 12 correções recorrentes: “já era pra ter feito”, “cadê o áudio”, “disse que funcionava e não funcionava”, logs duplicados e outras. O conteúdo da RFC original é pessoal e não está aqui; só o método.
-
 Licença MIT.
