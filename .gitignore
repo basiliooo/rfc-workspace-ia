@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+rfc-ws/
+correcoes.md
